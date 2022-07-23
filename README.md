@@ -10,6 +10,3 @@ Pokemon App with animations, beautiful UI and network call.
 
 
 ## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
